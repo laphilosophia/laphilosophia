@@ -10,4 +10,7 @@ And I wrote some stories, never published :)
 Figma, Sketch, Adobe XD, Adobe Photoshop, Adobe Illustrator, Overflow, MockUp
 
 #### Frontend
-Javascript, Major Javascript Frameworks, SSR Javascript Frameworks, Javascript for backend, suc as node.js and deno., Javascript Supersets, and voila! React-Native!, CSS and the extensions, Package Builders, Mongo like DB systems
+Javascript, major javascript frameworks, SSR javascript frameworks, javascript for backend, such as node.js and deno, javascript supersets, and voila! React-Native!, CSS and the extensions, package builders, mongo like DB systems etc..
+
+Yeah, I know there are a lot of things. But these days, the industry demands a lot of things, you know.
+Thanks!
