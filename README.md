@@ -14,3 +14,5 @@ Javascript, major javascript frameworks, SSR javascript frameworks, javascript f
 
 Yeah, I know there are a lot of things. But these days, the industry demands a lot of things, you know.
 Thanks!
+
+Live long and prosper.
