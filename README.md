@@ -1,4 +1,4 @@
-## Oh, Hello!
+## Oh, Hello! 🖖
 
 I am Erdem. I am an entrepreneur, designer, developer, writer and dreamer.
 
