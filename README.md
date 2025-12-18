@@ -1,4 +1,4 @@
-## Hey! 🖖
+## Hey!
 
 Software developer working with JavaScript and TypeScript.  
 I build small, well-defined backend utilities and libraries with a focus on clarity, correctness, and maintainability.
@@ -10,5 +10,3 @@ Selected work includes low/no-code framework, structured data utilities, and reu
 
 - GitHub: https://github.com/laphilosophia
 - LinkedIn: https://www.linkedin.com/in/earslan/
-
-Live long and prosper.
