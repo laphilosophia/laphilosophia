@@ -1,8 +1,9 @@
 ## Hey there 🖐
 
-I'm Erdem — I write TypeScript and build small tools that try to make life a bit easier: clean APIs, predictable behavior, and as little complexity as possible.
+I'm a software developer and system architect working mostly with TypeScript, Node.js, and backend tooling.
+I like building small, practical utilities and frameworks that stay clear, predictable, and easy to maintain.
 
-I enjoy solving problems by breaking them down, naming things well, and leaving code in a better state than I found it.
+Lately, I've been exploring state models, lightweight execution runtimes, and structured-data helpers shaped directly by real project constraints.
 
 You can check out what I'm building or just drop a message:
 
