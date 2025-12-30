@@ -1,12 +1,10 @@
-## Hey!
+## Hey there 🖐
 
-Software developer working with JavaScript and TypeScript.  
-I build small, well-defined backend utilities and libraries with a focus on clarity, correctness, and maintainability.
+I'm Erdem — I write TypeScript and build small tools that try to make life a bit easier: clean APIs, predictable behavior, and as little complexity as possible.
 
-**Core:** TypeScript · Node.js · API design · data structures  
-**Approach:** simple abstractions, explicit behavior, minimal dependencies
+I enjoy solving problems by breaking them down, naming things well, and leaving code in a better state than I found it.
 
-Selected work includes low/no-code framework, structured data utilities, and reusable helper libraries.
+You can check out what I'm building or just drop a message:
 
 - GitHub: https://github.com/laphilosophia
 - LinkedIn: https://www.linkedin.com/in/earslan/
