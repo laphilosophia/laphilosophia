@@ -1,11 +1,11 @@
-## Hey there 🖐
+# Ave, Visitor
 
-I'm a software developer and system architect working mostly with TypeScript, Node.js, and backend tooling.
-I like building small, practical utilities and frameworks that stay clear, predictable, and easy to maintain.
+I am Erdem — developer, architect, and keeper of deterministic state.
+My craft is TypeScript and Node.js, forging backend tools that are small in size, but relentless in purpose.
 
-Lately, I've been exploring state models, lightweight execution runtimes, and structured-data helpers shaped directly by real project constraints.
+I prefer clarity over chaos. Explicit contracts. Minimal dependencies. Code that behaves the same today, tomorrow, and under fire.
 
-You can check out what I'm building or just drop a message:
+Recent campaigns include state-infrastructure experiments, lightweight runtimes, and structured-data utilities — engineered to endure long after deployment banners fall.
 
-- GitHub: https://github.com/laphilosophia
-- LinkedIn: https://www.linkedin.com/in/earslan/
+- @github: /laphilosophia
+- @linkedin: /in/earslan
