@@ -1,9 +1,36 @@
-# Ave, Visitor
+# Erdem Arslan
 
-I am Erdem — developer, architect, and keeper of deterministic state.
-My craft is TypeScript and Node.js, forging backend tools that are small in size, but relentless in purpose.
+> "Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away."
 
-I prefer clarity over chaos. Explicit contracts. Minimal dependencies. Code that behaves the same today, tomorrow, and under fire.
+---
 
-- @github: /laphilosophia
-- @linkedin: /in/earslan
+### /manifesto
+I am a solo developer with 20 years of discipline, operating at the intersection of **Systems Engineering** and **Art**.
+I do not build for the hype. I build for the inevitable future of the Agentic Web.
+
+* **Focus:** Runtimes, Protocol Design, Ephemeral Databases.
+* **Motto:** Radical Minimalism.
+* **Status:** Architecting `Cluster127`.
+
+---
+
+### /architecture
+
+| Layer | Project | Status | Description |
+| :--- | :--- | :--- | :--- |
+| **Cortex** | [Nabu](https://github.com/cluster127/nabu) | `WIP` | Consciousness & Emotion Engine. |
+| **Memory** | [Mindfry](https://github.com/cluster127/mindfry) | `Beta` | Ephemeral Graph Database (Rust). |
+| **Body** | [Atrion](https://github.com/cluster127/atrion) | `Alpha` | The Execution Runtime. |
+| **Signal** | [Cluster127](https://cluster127.com) | `Live` | The Protocol / Network. |
+
+---
+
+### /stack
+`Rust` · `TypeScript` · `Node.js` · `System Architecture` · `Low-level Design`
+
+---
+
+### /connect
+* **Read:** [Hashnode](https://erdem.work)
+* **Network:** [LinkedIn](https://www.linkedin.com/in/earslan)
+* **Signal:** [X / Twitter](https://x.com/cluster127)
