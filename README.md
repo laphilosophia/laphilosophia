@@ -22,15 +22,3 @@ I do not build for the hype. I build for the inevitable future of the Agentic We
 | **Memory** | [Mindfry](https://github.com/cluster127/mindfry) | `Beta` | Ephemeral Graph Database (Rust). |
 | **Body** | [Atrion](https://github.com/cluster127/atrion) | `Alpha` | The Execution Runtime. |
 | **Signal** | [Cluster127](https://cluster127.com) | `Live` | The Protocol / Network. |
-
----
-
-### /stack
-`Rust` · `TypeScript` · `Node.js` · `System Architecture` · `Low-level Design`
-
----
-
-### /connect
-* **Read:** [Hashnode](https://erdem.work)
-* **Network:** [LinkedIn](https://www.linkedin.com/in/earslan)
-* **Signal:** [X / Twitter](https://x.com/cluster127)
