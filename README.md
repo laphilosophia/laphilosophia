@@ -19,4 +19,4 @@ I do not build for the hype. I build for the inevitable future of the Agentic We
 | **Cortex** | [Nabu](https://github.com/cluster-127/nabu) | `WIP` | Consciousness & Emotion Engine. |
 | **Memory** | [Mindfry](https://github.com/cluster-127/mindfry) | `Beta` | Memory with a Conscience. |
 | **Body** | [Atrion](https://github.com/cluster-127/atrion) | `Alpha` | Physics-based Execution Runtime. |
-| **Signal** | [C127](https://github.com/cluster-127/C127) | `Live` | The Protocol / Network. |
+| **Signal** | [C127](https://github.com/cluster-127/C127) | `WIP` | The Protocol / Network. |
