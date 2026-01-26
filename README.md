@@ -1,9 +1,11 @@
 > "Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away."
+> 
+> `Antoine de Saint-Exupéry, Airman's Odyssey`
 
 ---
 
 ### /manifesto
-I am a solo developer with 20 years of discipline, operating at the intersection of **Systems Engineering** and **Art**.
+I am a software developer with 20 years of discipline, operating at the intersection of **Systems Engineering** and **Art**.
 I do not build for the hype. I build for the inevitable future of the Agentic Web.
 
 * **Focus:** Runtimes, Protocol Design, Ephemeral Databases.
